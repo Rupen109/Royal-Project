@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo2.wpopal.com	TRUE	/smartic/	FALSE	1999999999	woocommerce_items_in_cart	1
+demo2.wpopal.com	TRUE	/smartic/	FALSE	1999999999	woocommerce_cart_hash	f31c93ad3bb2ddbad168aa2c4bf3e7d4
+demo2.wpopal.com	TRUE	/smartic/	FALSE	1999999999	wp_woocommerce_session_3873d5da53b6ad5326a339ec3f28557f	79a97aa2e712e5851d08995ebdd3aed4%7C%7C1626280248%7C%7C1626276648%7C%7Cee89f014786759bd87ce936bab6074cd
+

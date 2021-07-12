@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-demo.templatetrip.com	TRUE	/	FALSE	1999999999	PHPSESSID	4621a89725163e968aa751467525e022
-demo.templatetrip.com	TRUE	/	FALSE	1999999999	language	en-gb
-demo.templatetrip.com	TRUE	/	FALSE	1999999999	currency	USD
-
