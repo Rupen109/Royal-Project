@@ -884,9 +884,18 @@ body {
   height: 6px;
   z-index: 10000001;
   background-color: #75dab4;
-  -webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
-  -o-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
-  transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out; }
+  -webkit-transition: width .3s ease-in-out,
+ height .3s ease-in-out,
+ margin .3s ease-in-out,
+ opacity .3s ease-in-out;
+  -o-transition: width .3s ease-in-out,
+ height .3s ease-in-out,
+ margin .3s ease-in-out,
+ opacity .3s ease-in-out;
+  transition: width .3s ease-in-out,
+ height .3s ease-in-out,
+ margin .3s ease-in-out,
+ opacity .3s ease-in-out; }
 
 .cursor-inner.cursor-hover {
   margin-left: -40px;
@@ -1283,7 +1292,7 @@ body {
   .navbar .icon-bar {
     color: #fff; }
   .navbar .navbar-nav .nav-link {
-    font-size: 12px;
+    font-size: 19px;
     font-weight: 500;
     color: #fff;
     padding: 15px 7px;
@@ -1666,6 +1675,14 @@ body {
 
 /* ====================== [ End navbar ] ====================== */
 /* ====================== [ Start Slider ] ====================== */
+
+.logoimg{
+  position: flex;
+  width: 50px;
+  height: 50px;
+  margin-left: 310px;
+}
+
 .slider {
   position: relative; }
   .slider.fixed-slider {
@@ -1737,9 +1754,12 @@ body {
       color: #fff;
       opacity: 0;
       visibility: hidden;
-      -webkit-transition: opacity .5s, visibility .5s;
-      -o-transition: opacity .5s, visibility .5s;
-      transition: opacity .5s, visibility .5s; }
+      -webkit-transition: opacity .5s,
+ visibility .5s;
+      -o-transition: opacity .5s,
+ visibility .5s;
+      transition: opacity .5s,
+ visibility .5s; }
     .slider .parallax-slider .caption p {
       color: #eee;
       margin-top: 15px;
@@ -2007,9 +2027,12 @@ body {
       color: #fff;
       opacity: 0;
       visibility: hidden;
-      -webkit-transition: opacity .5s, visibility .5s;
-      -o-transition: opacity .5s, visibility .5s;
-      transition: opacity .5s, visibility .5s; }
+      -webkit-transition: opacity .5s,
+ visibility .5s;
+      -o-transition: opacity .5s,
+ visibility .5s;
+      transition: opacity .5s,
+ visibility .5s; }
     .cta__slider-item .caption .thin {
       color: #75dab4;
       font-size: 20px;
@@ -2220,9 +2243,12 @@ body {
     color: #fff;
     opacity: 0;
     visibility: hidden;
-    -webkit-transition: opacity .5s, visibility .5s;
-    -o-transition: opacity .5s, visibility .5s;
-    transition: opacity .5s, visibility .5s; }
+    -webkit-transition: opacity .5s,
+ visibility .5s;
+    -o-transition: opacity .5s,
+ visibility .5s;
+    transition: opacity .5s,
+ visibility .5s; }
   .slider-bus .caption p {
     color: #eee;
     opacity: 0;
