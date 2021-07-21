@@ -5117,3 +5117,10 @@ body {
       -webkit-text-stroke: 0px #fff; } }
 
 /* ====================== [ End Responsive ] ====================== */
+
+
+@media screen and (max-width: 480px) {
+  .logoimg{
+    margin-left: 170px !important;
+  }
+}
